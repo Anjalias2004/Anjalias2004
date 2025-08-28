@@ -31,7 +31,7 @@ Currently focused on mastering **CSS, JavaScript, and React** while also buildin
 ## 📌 Featured Projects  
 
 ### 💻 Web Development  
-- [CSS Bootcamp Project]([https://github.com/Anjalias2004/css-bootcamp-project](https://github.com/Anjalias2004/CSS-Bootcamp-Assignments)) *(Codekaro 5-day Bootcamp)*  
+- [CSS Bootcamp Project]((https://github.com/Anjalias2004/CSS-Bootcamp-Assignments)) *(Codekaro 5-day Bootcamp)*  
 
 ### 📊 Data Analytics Dashboard  
 - [Power BI Dashboards]([https://github.com/Anjalias2004/PowerBI-Dashboards](https://github.com/Anjalias2004/Website-Analysis-Dashboard--Anjali-)) *(Interactive reports on business and sales data)*  
