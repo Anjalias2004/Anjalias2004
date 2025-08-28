@@ -47,7 +47,7 @@ Currently focused on mastering **CSS, JavaScript, and React** while also buildin
 ---
 
 ## 📫 Connect with Me  
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/anjali-a-s-80a163322/)) *(Add your profile link here)*  
+- [LinkedIn](https://www.linkedin.com/in/anjali-a-s-80a163322/) *(Add your profile link here)*  
 - [Portfolio Website](#) *(to be added soon)*  
 
 ---
