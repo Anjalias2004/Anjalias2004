@@ -31,10 +31,10 @@ Currently focused on mastering **CSS, JavaScript, and React** while also buildin
 ## 📌 Featured Projects  
 
 ### 💻 Web Development  
-- [CSS Bootcamp Project]((https://github.com/Anjalias2004/CSS-Bootcamp-Assignments)) *(Codekaro 5-day Bootcamp)*  
+- [CSS Bootcamp Project](https://github.com/Anjalias2004/CSS-Bootcamp-Assignments) *(Codekaro 5-day Bootcamp)*  
 
 ### 📊 Data Analytics Dashboard  
-- [Power BI Dashboards]([https://github.com/Anjalias2004/PowerBI-Dashboards](https://github.com/Anjalias2004/Website-Analysis-Dashboard--Anjali-)) *(Interactive reports on business and sales data)*  
+- [Power BI Dashboards](https://github.com/Anjalias2004/Website-Analysis-Dashboard--Anjali-) *(Interactive reports on business and sales data)*  
 
 ---
 
@@ -47,9 +47,10 @@ Currently focused on mastering **CSS, JavaScript, and React** while also buildin
 ---
 
 ## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/anjali-a-s-80a163322/) *(Add your profile link here)*  
+- [LinkedIn](https://www.linkedin.com/in/anjali-a-s-80a163322/)  
 - [Portfolio Website](#) *(to be added soon)*  
 
 ---
 
-![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjalias2004&show_icons=true&theme=radical)  
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjalias2004&show_icons=true&theme=radical)
+
